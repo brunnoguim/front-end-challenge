@@ -1,0 +1,42 @@
+[
+    {
+        "id": "4ea31ba4-670c-44fd-9d7e-75ebd8798ee9",
+        "name": "Juliano Reis",
+        "admission_date": "2020-01-01T00:00:00.000Z",
+        "job_role": "Front-end Developer",
+        "user_id": "ee06edaa-9b03-486d-8851-f1d940f22f91",
+        "project": "Lorem Ipsum",
+        "birthdate": "1995-04-12T00:00:00.000Z",
+        "url": "/images/juliano.png"
+    },
+    {
+        "id": "cd65a8dc-39a5-47d4-898d-9fc9465888f5",
+        "name": "Gabriel do Couto",
+        "admission_date": "2019-01-01T00:00:00.000Z",
+        "job_role": "Front-end Developer",
+        "user_id": "ee06edaa-9b03-486d-8851-f1d940f22f91",
+        "project": "Lorem Ipsum",
+        "birthdate": "1997-12-22T00:00:00.000Z",
+        "url": "/images/gabriel.png"
+    },
+    {
+        "id": "0435fb21-bb2f-437c-8151-fa9318e9fda7",
+        "name": "Eduardo Bittencourt",
+        "admission_date": "2019-07-01T00:00:00.000Z",
+        "job_role": "Front-end Developer",
+        "user_id": "ee06edaa-9b03-486d-8851-f1d940f22f91",
+        "project": "Lorem Ipsum",
+        "birthdate": "1996-10-01T00:00:00.000Z",
+        "url": "/images/eduardo.png"
+    },
+    {
+        "id": "6ec0a439-ce03-411e-9db4-671aca4b86c6",
+        "name": "Gustavo Pinho",
+        "admission_date": "2016-10-01T00:00:00.000Z",
+        "job_role": "Technology Manager",
+        "user_id": "ee06edaa-9b03-486d-8851-f1d940f22f91",
+        "project": "Lorem Ipsum",
+        "birthdate": "1993-11-12T00:00:00.000Z",
+        "url": "/images/gustavo.png"
+    }
+]

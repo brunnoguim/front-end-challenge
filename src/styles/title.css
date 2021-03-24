@@ -1,0 +1,23 @@
+.title-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 3em 0 2.5em 0;
+}
+
+.title-container h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.title-container button{
+    padding: 0.8rem 2.8rem;
+}
+
+@media(max-width: 720px){
+    .title-container h2{
+        font-size: 32px;
+    }
+    .title-container button{
+        padding: 0.8rem 1rem;
+    }
+}

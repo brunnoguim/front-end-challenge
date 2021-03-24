@@ -1,0 +1,77 @@
+.inputs-container{
+    width: 100%;
+    height: 100%;
+    padding: 0 2em;
+}
+
+.input-container{
+    width: 700px;
+    margin: 6em auto;
+}
+
+.input-container-header{
+    display: flex;
+}
+
+.input-container h1{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.input-container svg{
+    cursor: pointer;
+    margin: 5px 30px 10px 10px;
+}
+
+.inputs-grid {
+    padding-top: 1em;
+    width: 100%;
+    display: grid;
+    grid-gap: 1em;
+	grid-template-columns:repeat(auto-fit, minmax(100px, 335px));
+    grid-auto-rows:minmax(90px, 90px);
+    justify-content: space-between;
+}
+
+.inputs-grid strong{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 200%;
+}
+
+.inputs-grid input{
+    width: 100%;
+    font-size: 16px;
+    padding: 0.6rem 0.5rem;
+}
+
+.button-container{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button-container button{
+    padding-left: 5em;
+    padding-right: 5em;
+    margin-top: 1em;
+}
+
+@media(max-width: 700px){
+    .inputs-grid {
+        padding-top: 1em;
+        width: 100%;
+        display: block;
+        justify-content: space-between;
+    }
+    .input-container{
+        width: 100%;
+        margin: 2em auto;
+    }
+    .inputs-grid input{
+        margin-bottom: 1em;
+    }
+    .button-container button{
+        width: 100%;
+    }
+}
