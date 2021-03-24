@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/front-end-challenge/static/css/main.eafbe6a2.chunk.css",
+    "main.js": "/front-end-challenge/static/js/main.4e338a0e.chunk.js",
+    "main.js.map": "/front-end-challenge/static/js/main.4e338a0e.chunk.js.map",
+    "runtime-main.js": "/front-end-challenge/static/js/runtime-main.bf5051ab.js",
+    "runtime-main.js.map": "/front-end-challenge/static/js/runtime-main.bf5051ab.js.map",
+    "static/js/2.c9640f19.chunk.js": "/front-end-challenge/static/js/2.c9640f19.chunk.js",
+    "static/js/2.c9640f19.chunk.js.map": "/front-end-challenge/static/js/2.c9640f19.chunk.js.map",
+    "index.html": "/front-end-challenge/index.html",
+    "static/css/main.eafbe6a2.chunk.css.map": "/front-end-challenge/static/css/main.eafbe6a2.chunk.css.map",
+    "static/js/2.c9640f19.chunk.js.LICENSE.txt": "/front-end-challenge/static/js/2.c9640f19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf5051ab.js",
+    "static/js/2.c9640f19.chunk.js",
+    "static/css/main.eafbe6a2.chunk.css",
+    "static/js/main.4e338a0e.chunk.js"
+  ]
+}
