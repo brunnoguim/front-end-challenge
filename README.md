@@ -5,9 +5,10 @@ Quer dar uma conferida na aplicação sem ter que fazer o pull para rodar ela lo
 
 O deploy está disponível em uma github page: ([Deploy Navedex](https://brunnoguim.github.io/front-end-challenge/))
 
+![](https://lh3.googleusercontent.com/proxy/A0iIJzQWD8XZXsNkbmD_C0-vAvhQHn6Pc-0fprxU3TCubvbM7JeKUU2SWDthHKEt-lUWIw17CCpzfwKTaflbOwrHo4h5xNwLuyMOfcTU4bH3-cGDgtA-OsPntDzymA)
+
 ## Acessando a Aplicação 🔒
 A navedex possui uma autenticação de login via a API deles, então você vai precisar dessas informações para acessar a aplicação:
-![](https://lh3.googleusercontent.com/proxy/A0iIJzQWD8XZXsNkbmD_C0-vAvhQHn6Pc-0fprxU3TCubvbM7JeKUU2SWDthHKEt-lUWIw17CCpzfwKTaflbOwrHo4h5xNwLuyMOfcTU4bH3-cGDgtA-OsPntDzymA)
 -E-mail: brunno.nave.rs
 -Senha: nave1234
 
