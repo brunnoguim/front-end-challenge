@@ -10,6 +10,6 @@ A navedex possui uma autenticação de login via API, então você vai precisar 
 
 ![](https://ih1.redbubble.net/image.146692783.3392/flat,128x128,075,f-pad,128x128,f8f8f8.u2.jpg) 
 
--E-mail: brunno.nave.rs
+*E-mail: brunno.nave.rs
 
--Senha: nave1234
+*Senha: nave1234
