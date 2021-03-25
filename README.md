@@ -13,5 +13,3 @@ A navedex possui uma autenticação de login via API, então você vai precisar 
 -E-mail: brunno.nave.rs
 
 -Senha: nave1234
-
-PS: se vocês fizeram uma referência ao Pokémon, eu posso fazer uma ao Legend of Zelda.
