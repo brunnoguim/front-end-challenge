@@ -8,8 +8,4 @@ O deploy está disponível em uma github page: ([Deploy Navedex](https://brunnog
 ## Acessando a Aplicação 🔒
 A navedex possui uma autenticação de login via API, então você vai precisar de uma ajuda para acessar a aplicação:
 
-![](https://ih1.redbubble.net/image.146692783.3392/flat,128x128,075,f-pad,128x128,f8f8f8.u2.jpg)
-
--E-mail: brunno.nave.rs
-
--Senha: nave1234
+![](https://ih1.redbubble.net/image.146692783.3392/flat,128x128,075,f-pad,128x128,f8f8f8.u2.jpg) E-mail: brunno.nave.rs Senha: nave1234
