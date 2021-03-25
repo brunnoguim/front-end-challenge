@@ -5,11 +5,13 @@ Quer dar uma conferida na aplicação sem ter que fazer o pull para rodar ela lo
 
 O deploy está disponível em uma github page: ([Deploy Navedex](https://brunnoguim.github.io/front-end-challenge/))
 
+## Acessando a Aplicação 🔒
+A navedex possui uma autenticação de login via API, então você vai precisar de uma ajuda para acessar a aplicação:
+
 ![](https://lh3.googleusercontent.com/proxy/A0iIJzQWD8XZXsNkbmD_C0-vAvhQHn6Pc-0fprxU3TCubvbM7JeKUU2SWDthHKEt-lUWIw17CCpzfwKTaflbOwrHo4h5xNwLuyMOfcTU4bH3-cGDgtA-OsPntDzymA)
 
-## Acessando a Aplicação 🔒
-A navedex possui uma autenticação de login via a API deles, então você vai precisar dessas informações para acessar a aplicação:
 -E-mail: brunno.nave.rs
+
 -Senha: nave1234
 
 PS: se vocês fizeram uma referência ao Pokémon, eu posso fazer uma ao Legend of Zelda.
